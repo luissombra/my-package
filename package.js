@@ -2,7 +2,7 @@ Package.describe({
   name: 'netrics:my-package',
   version: '0.1.0',
   // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'pacote de teste',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/luissombra/my-package',
   // By default, Meteor will default to using README.md for documentation.
