@@ -1,6 +1,6 @@
 Package.describe({
   name: 'netrics:my-package',
-  version: '2.0.0',
+  version: 'v2.1.0',
   // Brief, one-line summary of the package.
   summary: 'pacote de teste',
   // URL to the Git repository containing the source code for this package.
